@@ -1,2 +1,2 @@
-# angualr-app
+# angular-app
 tic tac toe!
